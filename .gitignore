@@ -1,2 +1,5 @@
 node_modules
 temp2.html
+[http]
+
+　　proxy = http://www.proxy.com:8080/
